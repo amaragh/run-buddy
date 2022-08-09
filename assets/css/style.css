@@ -97,7 +97,7 @@ section {
 
 /* Hero Form Style End */
 
-section div h3 {
+.hero-form h3 {
     font-size: 24px;
      margin: 0px;
 }
