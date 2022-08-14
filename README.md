@@ -12,3 +12,5 @@ https://amaragh.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Alecia Maragh
+
+### ©️2019 Run Buddy, Inc
